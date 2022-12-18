@@ -1,0 +1,30 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Unreal Projects/ThesisProjectVR/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"E:/Unreal Projects/ThesisProjectVR/Content/ColorWeelScroll.uasset",
+				"E:/Unreal Projects/ThesisProjectVR/Content/Wheel.uasset",
+				"E:/Unreal Projects/ThesisProjectVR/Content/Wheeel.uasset",
+				"E:/Unreal Projects/ThesisProjectVR/Content/Arrow.uasset",
+				"E:/Unreal Projects/ThesisProjectVR/Content/Texture.uasset",
+				"E:/Unreal Projects/ThesisProjectVR/Content/WebPlate/Web_Plate_pCube1.uasset",
+				"E:/Unreal Projects/ThesisProjectVR/Content/WebPlate/Web_Plate_pCube2.uasset",
+				"E:/Unreal Projects/ThesisProjectVR/Content/WebPlate/Web_Plate_pCube3.uasset",
+				"E:/Unreal Projects/ThesisProjectVR/Content/WebPlate/Web_Plate_pCube4.uasset",
+				"E:/Unreal Projects/ThesisProjectVR/Content/WebPlate/Web_Plate_pCube5.uasset",
+				"E:/Unreal Projects/ThesisProjectVR/Content/WebPlate/Web_Plate_pCube6.uasset",
+				"E:/Unreal Projects/ThesisProjectVR/Content/WebPlate/Web_Plate_pCube7.uasset",
+				"E:/Unreal Projects/ThesisProjectVR/Content/ColorWheelTexture.uasset",
+				"E:/Unreal Projects/ThesisProjectVR/Content/WebPlate/WebPlate.uasset",
+				"E:/Unreal Projects/ThesisProjectVR/Content/WebPlate/WebPlateBP.uasset",
+				"E:/Unreal Projects/ThesisProjectVR/Content/WebPlate/WebPlateBorders.umap",
+				"E:/Unreal Projects/ThesisProjectVR/Content/WebPlate/WebPlateEdge.uasset",
+				"E:/Unreal Projects/ThesisProjectVR/Content/lambert1.uasset"
+			]
+		}
+	]
+}
