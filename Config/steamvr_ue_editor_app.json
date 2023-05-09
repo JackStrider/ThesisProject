@@ -5,7 +5,7 @@
 			"app_key": "application.generated.ue.thesisprojecttryon5-20979098.unrealeditor.exe",
 			"launch_type": "url",
 			"url": "steam://launch/",
-			"action_manifest_path": "E:/Unreal Projects/ThesisProject/Config/SteamVRBindings/steamvr_manifest.json",
+			"action_manifest_path": "C:/Users/rossi/OneDrive/Documents/GitHub/ThesisProject/Config/SteamVRBindings/steamvr_manifest.json",
 			"strings":
 			{
 				"en_us":

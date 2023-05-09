@@ -30,6 +30,18 @@
 				"Win64",
 				"Linux"
 			]
+		},
+		{
+			"Name": "VirtualCamera",
+			"Enabled": true
+		},
+		{
+			"Name": "LiveLink",
+			"Enabled": true
+		},
+		{
+			"Name": "LiveLinkXR",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
